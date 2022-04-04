@@ -1,3 +1,1 @@
 # QuickPlot
-# QuickPlot
-# QuickPlot
