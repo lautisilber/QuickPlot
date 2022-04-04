@@ -1,4 +1,3 @@
-from email import header
 import matplotlib.pyplot as plt
 import numpy as np
 from os.path import exists
